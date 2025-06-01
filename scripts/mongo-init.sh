@@ -230,7 +230,6 @@ db.setting.insert({
         ],
         know_me: "https://github.com/codepzj"
     }
-} );
-
+});
 
 EOF
